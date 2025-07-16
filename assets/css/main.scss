@@ -7,3 +7,36 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom Avatar Size Override */
+.author__avatar img {
+  max-width: 180px; // or adjust to 200px, 220px as desired
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); // optional styling
+}
+
+.author__avatar {
+  margin-bottom: 1.5em; // optional spacing tweak
+}
+
+
+/* Justify all main content text */
+.page__content,
+.page__lead,
+.archive__item-excerpt,
+.author__bio {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  text-align: left;
+}
+

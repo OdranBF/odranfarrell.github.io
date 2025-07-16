@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Ódran Farrell"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "Pre-doctoral Researcher at the London School of Economics"
+name                     : "Ódran Farrell"
+description              : "My personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Ódran Farrell"
+  avatar           : "/assets/images/profile_photo.png"
+  bio              : "Welcome to my personal website. I am a pre-doctoral researcher at the London School of Economics, working in environmental and development economics. My research interests include the economics of climate change, the impact of environmental policies and natural disasters on economic growth, and the role of natural resources in developing economies."
+  location         : "London, UK"
+  email            : o.farrell1@lse.ac.uk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

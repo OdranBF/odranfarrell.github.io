@@ -1,0 +1,19 @@
+#cities-map {
+  height: 600px;
+  width: 100%;
+  margin-bottom: 2em;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+/* Prevent layout issues */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.leaflet-tile {
+  image-rendering: auto;
+  transform: translateZ(0); /* helps on GPU-accelerated browsers */
+}
