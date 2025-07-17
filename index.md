@@ -5,12 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-<div id="theme-toggle-wrapper" style="text-align: right; margin-top: 1rem;">
-  <button id="theme-toggle" style="padding: 0.5em 1em; border: 1px solid #ccc; border-radius: 5px;">
-    Toggle Theme
-  </button>
-</div>
-
 ## Live Map: Yesterday's Hottest Cities
 
 <div id="cities-map" style="height: 600px; width: 100%; margin-bottom: 2em;"></div>

@@ -6,9 +6,9 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
-  - title: "Projects"
-    url: /projects/
-  - title: "Blog"
-    url: /blog/
+  #- title: "Projects"
+    #url: /projects/
+  - title: "Data & Code"
+    url: /data_code/
   - title: "Contact"
     url: /contact/

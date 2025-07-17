@@ -1,0 +1,10 @@
+# This file contains the list of datasets and code projects to display on the Data & Code page.
+
+items:
+  # Example (commented out for now):
+  # - title: "Flood Risk Model"
+  #   type: "Python Script"
+  #   date: "2024"
+  #   description: "Simulates floodwater flow across a DEM with rainfall input data."
+  #   link: "/projects/flood-model"
+  #   repo: "https://github.com/yourusername/flood-model"
