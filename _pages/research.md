@@ -12,8 +12,8 @@ permalink: /research/
 ## Work in Progress
 
 {% for paper in wip %}
-### *{{ paper.title }}*
-**{{ paper.authors }}**  
+<p><strong style="font-size: 1.1em;">{{ paper.title }}</strong></p>
+<p><strong>{{ paper.authors }}</strong></p>
 _{{ paper.description }}_  
 {% if paper.note %}_Status_: *{{ paper.note }}*{% endif %}
 
@@ -29,8 +29,8 @@ _{{ paper.description }}_
 ## Working Papers
 
 {% for paper in wp %}
-### *{{ paper.title }}*
-**{{ paper.authors }}**  
+<p><strong style="font-size: 1.1em;">{{ paper.title }}</strong></p>
+<p><strong>{{ paper.authors }}</strong></p>
 _{{ paper.description }}_  
 {% if paper.note %}_Status_: *{{ paper.note }}*{% endif %}
 
@@ -46,8 +46,8 @@ _{{ paper.description }}_
 ## Publications
 
 {% for paper in pubs %}
-### *{{ paper.title }}*
-**{{ paper.authors }}**  
+<p><strong style="font-size: 1.1em;">{{ paper.title }}</strong></p>
+<p><strong>{{ paper.authors }}</strong></p>
 _{{ paper.description }}_  
 {% if paper.note %}_Published in_: *{{ paper.note }}*{% endif %}
 
