@@ -40,3 +40,7 @@ search: false
   text-align: left;
 }
 
+// Hide anchor/permalink symbols beside headings
+.page__content .header-link {
+  display: none;
+}
