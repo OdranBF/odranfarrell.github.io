@@ -14,16 +14,7 @@ classes: wide
 
 ## About the Map
 
-This live map visualizes the **maximum temperatures recorded yesterday in the world’s  most populous cities.**
-
-For each city, you can view:
-
-- **Name**
-- **Country**
-- **Population**
-- **Yesterday’s highest recorded temperature (°C)**
-
-The data is updated **daily** and sourced from the [Open-Meteo Historical Weather API](https://open-meteo.com/), providing a consistent and open-access view of extreme heat exposure around the globe. The table below shows the top twenty hottest cities yesterday.
+This live map visualizes the **maximum temperatures recorded yesterday in the world’s most populous cities.** The data is updated **daily** and sourced from the [Open-Meteo Historical Weather API](https://open-meteo.com/), providing a consistent and open-access view of extreme heat exposure around the globe. The table below shows the top twenty hottest cities yesterday.
 
 _This map is current as of **<span id="current-date"></span>**, and reflects data collected for the previous calendar day._
 
