@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome"
+title: "Welcome to my Website!"
 author_profile: true
 classes: wide
 ---
