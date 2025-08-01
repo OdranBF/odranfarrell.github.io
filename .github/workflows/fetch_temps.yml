@@ -24,7 +24,7 @@ jobs:
 
       - name: Run script
         run: |
-          python wd/scripts/python/fetch_cities_temp.py
+          python scripts/fetch_cities_temp.py
 
       - name: Commit and push if changed
         run: |
