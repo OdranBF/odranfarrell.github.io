@@ -56,19 +56,19 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "S\u00e3o Paulo",
-    "country": "Brazil",
-    "population": 12400232,
-    "lat": -23.5475,
-    "lon": -46.63611,
-    "max_temp_yesterday": null
-  },
-  {
     "name": "Mexico City",
     "country": "Mexico",
     "population": 12294193,
     "lat": 19.42847,
     "lon": -99.12766,
+    "max_temp_yesterday": null
+  },
+  {
+    "name": "Karachi",
+    "country": "Pakistan",
+    "population": 11624219,
+    "lat": 24.8608,
+    "lon": 67.0104,
     "max_temp_yesterday": null
   },
   {
@@ -112,14 +112,6 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Ho Chi Minh City",
-    "country": "Viet Nam",
-    "population": 8993082,
-    "lat": 10.82302,
-    "lon": 106.62965,
-    "max_temp_yesterday": null
-  },
-  {
     "name": "London",
     "country": "United Kingdom",
     "population": 8961989,
@@ -144,6 +136,14 @@
     "max_temp_yesterday": null
   },
   {
+    "name": "Bengaluru",
+    "country": "India",
+    "population": 8443675,
+    "lat": 12.97194,
+    "lon": 77.59369,
+    "max_temp_yesterday": null
+  },
+  {
     "name": "Tokyo",
     "country": "Japan",
     "population": 8336599,
@@ -165,14 +165,6 @@
     "population": 7871900,
     "lat": 25.04776,
     "lon": 121.53185,
-    "max_temp_yesterday": null
-  },
-  {
-    "name": "Lima",
-    "country": "Peru",
-    "population": 7737002,
-    "lat": -12.04318,
-    "lon": -77.02824,
     "max_temp_yesterday": null
   },
   {
@@ -216,19 +208,19 @@
     "max_temp_yesterday": null
   },
   {
+    "name": "Abidjan",
+    "country": "C\u00f4te d'Ivoire",
+    "population": 6321017,
+    "lat": 5.35444,
+    "lon": -4.00167,
+    "max_temp_yesterday": null
+  },
+  {
     "name": "Lahore",
     "country": "Pakistan",
     "population": 6310888,
     "lat": 31.558,
     "lon": 74.35071,
-    "max_temp_yesterday": null
-  },
-  {
-    "name": "Singapore",
-    "country": "Singapore",
-    "population": 5638700,
-    "lat": 1.28967,
-    "lon": 103.85007,
     "max_temp_yesterday": null
   },
   {
@@ -344,19 +336,19 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Bamako",
-    "country": "Mali",
-    "population": 4227569,
-    "lat": 12.65,
-    "lon": -8.0,
-    "max_temp_yesterday": null
-  },
-  {
     "name": "Riyadh",
     "country": "Saudi Arabia",
     "population": 4205961,
     "lat": 24.68773,
     "lon": 46.72185,
+    "max_temp_yesterday": null
+  },
+  {
+    "name": "Chattogram",
+    "country": "Bangladesh",
+    "population": 3920222,
+    "lat": 22.3384,
+    "lon": 91.83168,
     "max_temp_yesterday": null
   },
   {
@@ -400,14 +392,6 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Ibadan",
-    "country": "Nigeria",
-    "population": 3649000,
-    "lat": 7.37756,
-    "lon": 3.90591,
-    "max_temp_yesterday": null
-  },
-  {
     "name": "Ankara",
     "country": "Turkey",
     "population": 3517182,
@@ -432,6 +416,14 @@
     "max_temp_yesterday": null
   },
   {
+    "name": "Madrid",
+    "country": "Spain",
+    "population": 3255944,
+    "lat": 40.4165,
+    "lon": -3.70256,
+    "max_temp_yesterday": null
+  },
+  {
     "name": "Pyongyang",
     "country": "Korea, Dem. People's Rep. of",
     "population": 3222000,
@@ -453,14 +445,6 @@
     "population": 3101833,
     "lat": 40.19559,
     "lon": 29.06013,
-    "max_temp_yesterday": null
-  },
-  {
-    "name": "Caracas",
-    "country": "Venezuela, Bolivarian Rep. of",
-    "population": 3000000,
-    "lat": 10.48801,
-    "lon": -66.87919,
     "max_temp_yesterday": null
   },
   {
@@ -504,19 +488,19 @@
     "max_temp_yesterday": null
   },
   {
+    "name": "Luanda",
+    "country": "Angola",
+    "population": 2776168,
+    "lat": -8.83682,
+    "lon": 13.23432,
+    "max_temp_yesterday": null
+  },
+  {
     "name": "Quezon City",
     "country": "Philippines",
     "population": 2761720,
     "lat": 14.6488,
     "lon": 121.0509,
-    "max_temp_yesterday": null
-  },
-  {
-    "name": "Osaka",
-    "country": "Japan",
-    "population": 2753862,
-    "lat": 34.69379,
-    "lon": 135.50107,
     "max_temp_yesterday": null
   },
   {
@@ -632,19 +616,19 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Kowloon",
-    "country": "Hong Kong, China",
-    "population": 2303100,
-    "lat": 22.31667,
-    "lon": 114.18333,
-    "max_temp_yesterday": null
-  },
-  {
     "name": "Maracaibo",
     "country": "Venezuela, Bolivarian Rep. of",
     "population": 2225000,
     "lat": 10.66663,
     "lon": -71.61245,
+    "max_temp_yesterday": null
+  },
+  {
+    "name": "Lubumbashi",
+    "country": "Congo, Democratic Republic of the",
+    "population": 2221925,
+    "lat": -11.66089,
+    "lon": 27.47938,
     "max_temp_yesterday": null
   },
   {
@@ -688,14 +672,6 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Al Maw\u015fil al Jad\u012bdah",
-    "country": "Iraq",
-    "population": 2065597,
-    "lat": 36.33271,
-    "lon": 43.10555,
-    "max_temp_yesterday": null
-  },
-  {
     "name": "Al Ba\u015frah al Qad\u012bmah",
     "country": "Iraq",
     "population": 2015483,
@@ -717,6 +693,14 @@
     "population": 1999979,
     "lat": 6.25184,
     "lon": -75.56359,
+    "max_temp_yesterday": null
+  },
+  {
+    "name": "Brazzaville",
+    "country": "Congo",
+    "population": 1982000,
+    "lat": -4.26613,
+    "lon": 15.28318,
     "max_temp_yesterday": null
   }
 ]
