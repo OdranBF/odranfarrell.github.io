@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Welcome to my Website!"
+title: "Ódran Farrell | Pre-doctoral Researcher at LSE"
 author_profile: true
 classes: wide
+description: "Official website of Ódran Farrell, pre-doctoral researcher at the London School of Economics, focusing on environmental and development economics."
 ---
+
 
 ## Live Map: Yesterday's Hottest Cities
 
