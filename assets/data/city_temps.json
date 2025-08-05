@@ -136,11 +136,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Jakarta",
-    "country": "Indonesia",
-    "population": 8540121,
-    "lat": -6.21462,
-    "lon": 106.84513,
+    "name": "Bengaluru",
+    "country": "India",
+    "population": 8443675,
+    "lat": 12.97194,
+    "lon": 77.59369,
     "max_temp_yesterday": null
   },
   {
@@ -208,11 +208,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Rio de Janeiro",
-    "country": "Brazil",
-    "population": 6747815,
-    "lat": -22.90642,
-    "lon": -43.18223,
+    "name": "Abidjan",
+    "country": "C\u00f4te d'Ivoire",
+    "population": 6321017,
+    "lat": 5.35444,
+    "lon": -4.00167,
     "max_temp_yesterday": null
   },
   {
@@ -280,11 +280,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Melbourne",
-    "country": "Australia",
-    "population": 4917750,
-    "lat": -37.814,
-    "lon": 144.96332,
+    "name": "Kano",
+    "country": "Nigeria",
+    "population": 4910000,
+    "lat": 12.00012,
+    "lon": 8.51672,
     "max_temp_yesterday": null
   },
   {
@@ -352,11 +352,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Riyadh",
-    "country": "Saudi Arabia",
-    "population": 4205961,
-    "lat": 24.68773,
-    "lon": 46.72185,
+    "name": "Chattogram",
+    "country": "Bangladesh",
+    "population": 3920222,
+    "lat": 22.3384,
+    "lon": 91.83168,
     "max_temp_yesterday": null
   },
   {
@@ -424,11 +424,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Berlin",
-    "country": "Germany",
-    "population": 3426354,
-    "lat": 52.52437,
-    "lon": 13.41053,
+    "name": "Madrid",
+    "country": "Spain",
+    "population": 3255944,
+    "lat": 40.4165,
+    "lon": -3.70256,
     "max_temp_yesterday": null
   },
   {
@@ -496,11 +496,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Quito",
-    "country": "Ecuador",
-    "population": 2781641,
-    "lat": -0.22985,
-    "lon": -78.52495,
+    "name": "Luanda",
+    "country": "Angola",
+    "population": 2776168,
+    "lat": -8.83682,
+    "lon": 13.23432,
     "max_temp_yesterday": null
   },
   {
@@ -568,11 +568,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Brisbane",
-    "country": "Australia",
-    "population": 2582007,
-    "lat": -27.46794,
-    "lon": 153.02809,
+    "name": "Bekasi",
+    "country": "Indonesia",
+    "population": 2564940,
+    "lat": -6.2349,
+    "lon": 106.9896,
     "max_temp_yesterday": null
   },
   {
@@ -640,11 +640,11 @@
     "max_temp_yesterday": null
   },
   {
-    "name": "Maracaibo",
-    "country": "Venezuela, Bolivarian Rep. of",
-    "population": 2225000,
-    "lat": 10.66663,
-    "lon": -71.61245,
+    "name": "Lubumbashi",
+    "country": "Congo, Democratic Republic of the",
+    "population": 2221925,
+    "lat": -11.66089,
+    "lon": 27.47938,
     "max_temp_yesterday": null
   },
   {
