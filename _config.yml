@@ -37,6 +37,8 @@ words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+og_image                 : /assets/images/profile_photo.png
+twitter_card             : summary
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -86,7 +88,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : BT9mlFKzz24fWIPzMcQmqVpU4dY8OCWWvKdL5MOXRk4
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :

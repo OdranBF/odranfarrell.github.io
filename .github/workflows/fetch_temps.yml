@@ -2,7 +2,7 @@ name: Update City Temps
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # Runs daily at 00:00 UTC
+    - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
   workflow_dispatch:       # Allows manual runs
 
 jobs:
@@ -31,5 +31,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "actions@github.com"
           git add assets/data/city_temps.json
+          echo "$(date)" > last_update.txt
+          git add last_update.txt
           git commit -m "Update city temperatures $(date)" || echo "No changes to commit"
           git push
