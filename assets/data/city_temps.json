@@ -69,7 +69,7 @@
     "population": 12294193,
     "lat": 19.42847,
     "lon": -99.12766,
-    "max_temp_yesterday": 23.7
+    "max_temp_yesterday": 23.4
   },
   {
     "name": "Karachi",
@@ -165,7 +165,7 @@
     "population": 8336599,
     "lat": 35.6895,
     "lon": 139.69171,
-    "max_temp_yesterday": 9.4
+    "max_temp_yesterday": 9.6
   },
   {
     "name": "Hanoi",
@@ -197,7 +197,7 @@
     "population": 7674366,
     "lat": 4.60971,
     "lon": -74.08175,
-    "max_temp_yesterday": 19.7
+    "max_temp_yesterday": 19.8
   },
   {
     "name": "Hong Kong",
@@ -293,7 +293,7 @@
     "population": 5231147,
     "lat": -33.86785,
     "lon": 151.20732,
-    "max_temp_yesterday": 20.8
+    "max_temp_yesterday": 21.5
   },
   {
     "name": "Bangkok",
@@ -309,7 +309,7 @@
     "population": 4917750,
     "lat": -37.814,
     "lon": 144.96332,
-    "max_temp_yesterday": 22.6
+    "max_temp_yesterday": 22.5
   },
   {
     "name": "Kano",
@@ -525,7 +525,7 @@
     "population": 2891082,
     "lat": -34.61315,
     "lon": -58.37723,
-    "max_temp_yesterday": 23.8
+    "max_temp_yesterday": 24.3
   },
   {
     "name": "Surabaya",
@@ -549,7 +549,7 @@
     "population": 2781641,
     "lat": -0.22985,
     "lon": -78.52495,
-    "max_temp_yesterday": 18.9
+    "max_temp_yesterday": 18.8
   },
   {
     "name": "Luanda",
@@ -597,7 +597,7 @@
     "population": 2721564,
     "lat": -19.92083,
     "lon": -43.93778,
-    "max_temp_yesterday": 20.5
+    "max_temp_yesterday": 20.4
   },
   {
     "name": "Dakar",
@@ -629,7 +629,7 @@
     "population": 2582007,
     "lat": -27.46794,
     "lon": 153.02809,
-    "max_temp_yesterday": 24.8
+    "max_temp_yesterday": 24.7
   },
   {
     "name": "Bekasi",
@@ -669,7 +669,7 @@
     "population": 2392877,
     "lat": 3.43722,
     "lon": -76.5225,
-    "max_temp_yesterday": 31.5
+    "max_temp_yesterday": 31.4
   },
   {
     "name": "Algiers",
@@ -709,7 +709,7 @@
     "population": 2225000,
     "lat": 10.66663,
     "lon": -71.61245,
-    "max_temp_yesterday": 31.7
+    "max_temp_yesterday": 31.6
   },
   {
     "name": "Lubumbashi",
@@ -789,7 +789,7 @@
     "population": 1999979,
     "lat": 6.25184,
     "lon": -75.56359,
-    "max_temp_yesterday": 28.8
+    "max_temp_yesterday": 29.3
   },
   {
     "name": "Brazzaville",
