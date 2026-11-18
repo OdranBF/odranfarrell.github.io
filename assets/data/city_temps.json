@@ -69,7 +69,7 @@
     "population": 12294193,
     "lat": 19.42847,
     "lon": -99.12766,
-    "max_temp_yesterday": 21.4
+    "max_temp_yesterday": 21.7
   },
   {
     "name": "Karachi",
@@ -165,7 +165,7 @@
     "population": 8336599,
     "lat": 35.6895,
     "lon": 139.69171,
-    "max_temp_yesterday": 12.4
+    "max_temp_yesterday": 13.4
   },
   {
     "name": "Hanoi",
@@ -189,7 +189,7 @@
     "population": 7737002,
     "lat": -12.04318,
     "lon": -77.02824,
-    "max_temp_yesterday": 27.1
+    "max_temp_yesterday": 26.8
   },
   {
     "name": "Bogotá",
@@ -197,7 +197,7 @@
     "population": 7674366,
     "lat": 4.60971,
     "lon": -74.08175,
-    "max_temp_yesterday": 23.7
+    "max_temp_yesterday": 23.8
   },
   {
     "name": "Hong Kong",
@@ -293,7 +293,7 @@
     "population": 5231147,
     "lat": -33.86785,
     "lon": 151.20732,
-    "max_temp_yesterday": 21.4
+    "max_temp_yesterday": 21.5
   },
   {
     "name": "Bangkok",
@@ -309,7 +309,7 @@
     "population": 4917750,
     "lat": -37.814,
     "lon": 144.96332,
-    "max_temp_yesterday": 17.0
+    "max_temp_yesterday": 16.7
   },
   {
     "name": "Kano",
@@ -325,7 +325,7 @@
     "population": 4837295,
     "lat": -33.45694,
     "lon": -70.64827,
-    "max_temp_yesterday": 24.2
+    "max_temp_yesterday": 23.6
   },
   {
     "name": "Cape Town",
@@ -421,7 +421,7 @@
     "population": 3761630,
     "lat": 35.43333,
     "lon": 139.65,
-    "max_temp_yesterday": 12.8
+    "max_temp_yesterday": 13.5
   },
   {
     "name": "Busan",
@@ -525,7 +525,7 @@
     "population": 2891082,
     "lat": -34.61315,
     "lon": -58.37723,
-    "max_temp_yesterday": 26.8
+    "max_temp_yesterday": 26.6
   },
   {
     "name": "Surabaya",
@@ -589,7 +589,7 @@
     "population": 2723665,
     "lat": -2.19616,
     "lon": -79.88621,
-    "max_temp_yesterday": 32.1
+    "max_temp_yesterday": 32.0
   },
   {
     "name": "Belo Horizonte",
@@ -597,7 +597,7 @@
     "population": 2721564,
     "lat": -19.92083,
     "lon": -43.93778,
-    "max_temp_yesterday": 26.4
+    "max_temp_yesterday": 26.8
   },
   {
     "name": "Dakar",
@@ -725,7 +725,7 @@
     "population": 2201941,
     "lat": 18.47186,
     "lon": -69.89232,
-    "max_temp_yesterday": 30.3
+    "max_temp_yesterday": 30.4
   },
   {
     "name": "Havana",
@@ -733,7 +733,7 @@
     "population": 2163824,
     "lat": 23.13302,
     "lon": -82.38304,
-    "max_temp_yesterday": 29.7
+    "max_temp_yesterday": 29.5
   },
   {
     "name": "Paris",
@@ -781,7 +781,7 @@
     "population": 2004652,
     "lat": -16.5,
     "lon": -68.15,
-    "max_temp_yesterday": 20.7
+    "max_temp_yesterday": 20.5
   },
   {
     "name": "Medellín",
@@ -789,7 +789,7 @@
     "population": 1999979,
     "lat": 6.25184,
     "lon": -75.56359,
-    "max_temp_yesterday": 28.5
+    "max_temp_yesterday": 28.7
   },
   {
     "name": "Brazzaville",
